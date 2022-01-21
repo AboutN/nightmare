@@ -2,6 +2,8 @@
 [![Join the chat at https://gitter.im/rosshinkley/nightmare](https://badges.gitter.im/rosshinkley/nightmare.svg)](https://gitter.im/rosshinkley/nightmare?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 # Nightmare
+学习中...   
+1. 给代码添加中文注释
 
 Nightmare is a high-level browser automation library from [Segment](https://segment.com).
 
